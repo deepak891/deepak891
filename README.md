@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Deepak
 
-**Lead Technical Engineer · 18+ Years · Java | Spring Boot | Distributed Systems | Cloud | Fintech**
-
 ---
 
 ## 🧑‍💻 About Me
