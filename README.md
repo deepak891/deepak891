@@ -4,9 +4,9 @@
 
 ## 🧑‍💻 About Me
 
-Result-driven Lead Technical Engineer with **18+ years** of experience designing and delivering scalable, high-performance applications across **banking, fintech, e-commerce, and enterprise domains**. I've led end-to-end delivery of payment platforms, digital banking systems, trade settlement engines, and wealth management products — building systems that process millions of transactions reliably.
+Result-driven professional with **18+ years** of experience designing and delivering scalable, high-performance applications across **banking, fintech, e-commerce, and enterprise domains**. Proven track record in end-to-end delivery.
 
-My core strength is **distributed systems and cloud-native architecture** — designing microservices, event-driven pipelines with Kafka, serverless solutions on AWS, and applying patterns like Saga and CQRS to complex financial workflows. Equally comfortable sketching architecture with TOGAF/C4 models, writing production Java/Spring Boot code, or leading a team through delivery.
+Skilled in **distributed systems and cloud-native architecture** — designing microservices, event-driven pipelines with Kafka, serverless solutions on AWS, and applying patterns like Saga and CQRS to complex financial workflows. Equally comfortable in architecture with TOGAF/C4 models, writing production Java/Spring Boot code, or leading a team through delivery.
 
 🏆 **AWS Certified**  |  🏆 **TOGAF Certified**  |  🤖 Exploring **Generative AI & AWS Bedrock**
 
