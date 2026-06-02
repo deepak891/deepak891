@@ -2,13 +2,11 @@
 
 ---
 
-## 🧑‍💻 About Me
+## ⌨️ What I Do
 
-Result-driven professional with **18+ years** of experience designing and delivering scalable, high-performance applications across **banking, fintech, e-commerce, and enterprise domains**. Proven track record in end-to-end delivery.
+- Develop **LLM-powered systems**: RAG pipelines, Agentic Systems, evaluation frameworks  
+- Building interesting AI powered applications  
 
-Skilled in **distributed systems and cloud-native architecture** — designing microservices, event-driven pipelines with Kafka, serverless solutions on AWS, and applying patterns like Saga and CQRS to complex financial workflows. Equally comfortable in architecture with TOGAF/C4 models, writing production Java/Spring Boot code, or leading a team through delivery.
-
-🏆 **AWS Certified**  |  🏆 **TOGAF Certified**  |  🤖 Exploring **Generative AI & AWS Bedrock**
 
 ---
 
